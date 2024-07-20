@@ -1,0 +1,123 @@
+
+*{
+   
+}
+#parrafouno{
+    text-align: center;
+    border-color: black;
+    border: 1px solid;
+    padding: 50px 340px 50px 340px;
+    background-color: rgb(4, 0, 43);
+    color: white;
+}
+
+#parrafouno h3{
+    font-family: "Anton SC";
+}
+
+#hola{
+    font-family: "Silkscreen", sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#iconouno{
+    font-size: 35px;
+    color: white;
+}
+
+#iconodos{
+    font-size: 35px;
+    background-color: rgb(2, 2, 44);
+    color: rgb(250, 71, 0);
+    padding: 10px 15px 10px 15px;
+    border-radius: 100%;
+}
+
+#tarjeta{
+    border: 2px solid rgb(206, 205, 205);
+    padding: 30px 50px 10px 50px
+}
+
+#tarjeta p{
+    font-size: 14px;
+}
+
+#tarjeta a{
+    padding: 1px 5px 1px 5px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#fila{
+    margin: 20px 180px 20px 180px;
+    
+}
+
+.articulo{
+    justify-content: center;
+}
+
+.card{
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+.article-list {
+    max-width: 600px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.article-list h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.article-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#carrusel{
+    justify-content: center;
+    align-items: center;
+    width: 50% auto;
+}
+
+#cuerpotres{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#logos{
+    margin: 10px 650px 10px 650px;
+}
+
+#proyectos{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
